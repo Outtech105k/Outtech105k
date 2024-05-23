@@ -2,20 +2,26 @@
 
 ## Overview
 
-- I'm student in UoA (University of Aizu, Fukushima/Japan) entered 2024.
+- I'm Japanese student in UoA (University of Aizu, Fukushima/Japan) entered 2024.
 
-## Language
+## Languages (Frameworks)
 
-List excludes I not using.
+Language excludes I not using usually.
 
-- C
-- Java
+- Go: Studying
 - Python
-- Go
 - SQL
+- Java: Studying
+- C
 - HTML/CSS/JS
+- Swift
+- (Flutter): Studying
 
 ## Websites
 
-- [My website](https://outtech105.com)
-- [X](https://x.com/105techno)
+- [My website](https://outtech105.com/)
+- [X](https://x.com/105techno/)
+
+## About Icon
+
+It took at Tsuwano station (Yamaguchi). I like trip with trains.
