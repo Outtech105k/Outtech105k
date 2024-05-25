@@ -2,7 +2,7 @@
 
 ## Overview
 
-- I'm Japanese student in UoA (University of Aizu, Fukushima/Japan) entered 2024.
+- I'm Japanese student in UoA (University of Aizu, Fukushima/Japan) entered 2023.
 
 ## Languages (Frameworks)
 
