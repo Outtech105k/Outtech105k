@@ -1,6 +1,6 @@
 # Outtech105k
 
-## Overview
+## Introduce
 
 - I'm Japanese student in UoA (University of Aizu, Fukushima/Japan) entered 2023.
 
@@ -8,20 +8,16 @@
 
 Language excludes I not using usually.
 
-- Go: Studying
+- Go
 - Python
 - SQL
-- Java: Studying
+- Java
 - C
 - HTML/CSS/JS
 - Swift
-- (Flutter): Studying
+- (Flutter)
 
 ## Websites
 
 - [My website](https://outtech105.com/)
 - [X](https://x.com/105techno/)
-
-## About Icon
-
-It took at Tsuwano station (Yamaguchi). I like trip with trains.
