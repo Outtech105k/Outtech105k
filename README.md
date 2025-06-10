@@ -10,28 +10,18 @@
 - Language excludes I not using usually.
 - Usage order (Descend)
 
-- Go
-  - Gin
-  - BubbleTea
-- Docker
-  - Docker Compose
-- Python
-  - Flask
-  - FastAPI
-  - NumPy/PlotLib
-  - Tensorflow
-- SQL
-  - MySQL/MariaDB
-- Dart
-  - Flutter
-- noSQL
-  - Redis
-- HTML/CSS/JavaScript
-- Swift
-  - SwiftUI
-  - SwiftData
-- Java
-- C
+| tech. | More info. |
+|:---|:---|
+| Go | Gin, BubbleTea |
+| Docker | Docker Compose |
+| Python3 | Flask, FastAPI, NumPy, PlogLib, TensorFlow |
+| SQL |  |
+| Dart | Flutter |
+| NoSQL | Redis |
+| FrontEnd Basic | HTML, CSS, JavaScript |
+| Swift | SwiftUI, SwiftData |
+| Java |  |
+| C |  |
 
 ## Websites
 
