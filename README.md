@@ -3,7 +3,7 @@
 ## Introduce
 
 - I'm Japanese student in UoA (University of Aizu, Fukushima/Japan) entered 2023.
-- At campus lab belong, researchng specially about animal(Bears, Boars, i.e.) detection system.
+- At campus lab belong, researchng about implementation YOLO model to FPGA with optimization.
 - Interested in Web backend service.
 
 ## Technologies
