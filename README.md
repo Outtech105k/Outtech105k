@@ -14,14 +14,15 @@
 |:---|:---|
 | Go | Gin, BubbleTea |
 | Docker | Docker Compose |
-| Python3 | Flask, FastAPI, NumPy, PlogLib, TensorFlow |
-| SQL |  |
+| Python3 | Flask, FastAPI, NumPy, PlotLib, TensorFlow |
+| SQL | MySQL(mariaDB) |
 | Dart | Flutter |
 | NoSQL | Redis |
+| Ruby | Rails |
 | FrontEnd Basic | HTML, CSS, JavaScript |
 | Swift | SwiftUI, SwiftData |
 | Java |  |
-| C |  |
+| C, C++ |  |
 
 ## Websites
 
